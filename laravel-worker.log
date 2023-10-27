@@ -1,0 +1,4396 @@
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+
+  18  /home/www/video-chat-app/artisan:37
+      [2m+17 vendor frames [22m
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+  18  /home/www/video-chat-app/artisan:37
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/www/video-chat-app/artisan:37
+      [2m+17 vendor frames [22m
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+
+      [2m+17 vendor frames [22m
+  18  /home/www/video-chat-app/artisan:37
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+  18  /home/www/video-chat-app/artisan:37
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+   Error 
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+
+
+      [2m+17 vendor frames [22m
+
+
+      [2m+17 vendor frames [22m
+
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+
+      [2m+17 vendor frames [22m
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+      [2m+17 vendor frames [22m
+
+
+      [2m+17 vendor frames [22m
+      [2m+17 vendor frames [22m
+
+
+  18  /home/www/video-chat-app/artisan:37
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+
+  18  /home/www/video-chat-app/artisan:37
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/www/video-chat-app/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/www/video-chat-app/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+Could not open input file: /home/www/video-chat-app/php
+  2023-10-27 11:21:51 App\Listeners\SendCounterAddNotifications ...... RUNNING
+  2023-10-27 11:21:51 App\Listeners\SendCounterAddNotifications . 62.64ms DONE
+  2023-10-27 12:10:50 App\Listeners\SendCounterAddNotifications ...... RUNNING
+  2023-10-27 12:10:52 App\Listeners\SendCounterAddNotifications ...... 1s DONE
+  2023-10-27 12:10:52 App\Listeners\SendCounterAddNotifications ...... RUNNING
+  2023-10-27 12:10:52 App\Listeners\SendCounterAddNotifications . 51.65ms DONE
+  2023-10-27 12:11:31 App\Listeners\SendCounterAddNotifications ...... RUNNING
+  2023-10-27 12:11:31 App\Listeners\SendCounterAddNotifications .. 8.24ms DONE
+  2023-10-27 12:11:37 App\Listeners\SendCounterAddNotifications ...... RUNNING
+  2023-10-27 12:11:37 App\Listeners\SendCounterAddNotifications .. 4.64ms DONE
+  2023-10-27 12:11:37 App\Listeners\SendCounterAddNotifications ...... RUNNING
+  2023-10-27 12:11:37 App\Listeners\SendCounterAddNotifications . 54.48ms DONE
+  2023-10-27 12:11:40 App\Listeners\SendCounterAddNotifications ...... RUNNING
+  2023-10-27 12:11:40 App\Listeners\SendCounterAddNotifications . 10.72ms DONE
+  2023-10-27 12:21:07 App\Listeners\SendCounterAddNotifications ...... RUNNING
+  2023-10-27 12:21:09 App\Listeners\SendCounterAddNotifications ...... 1s DONE
+  2023-10-27 12:41:46 App\Listeners\SendCounterAddNotifications ...... RUNNING
+  2023-10-27 12:41:47 App\Listeners\SendCounterAddNotifications ...... 1s DONE
+  2023-10-27 14:35:48 App\Events\CounterAdd .......................... RUNNING
+  2023-10-27 14:35:48 App\Events\CounterAdd .................... 258.43ms DONE
+  2023-10-27 14:36:35 App\Events\CounterAdd .......................... RUNNING
+  2023-10-27 14:36:35 App\Events\CounterAdd ..................... 17.61ms DONE
+  2023-10-27 14:38:20 App\Events\CounterAdd .......................... RUNNING
+  2023-10-27 14:38:20 App\Events\CounterAdd ..................... 28.00ms DONE
+  2023-10-27 14:42:53 App\Events\CounterAdd .......................... RUNNING
+  2023-10-27 14:42:53 App\Events\CounterAdd ..................... 12.74ms DONE
+  2023-10-27 14:43:11 App\Events\CounterAdd .......................... RUNNING
+  2023-10-27 14:43:12 App\Events\CounterAdd .................... 425.42ms DONE
+  2023-10-27 14:43:57 App\Events\CounterAdd .......................... RUNNING
+  2023-10-27 14:43:57 App\Events\CounterAdd ..................... 19.95ms DONE
+  2023-10-27 14:45:18 App\Events\CounterAdd .......................... RUNNING
+  2023-10-27 14:45:18 App\Events\CounterAdd ..................... 33.75ms DONE
+  2023-10-27 14:45:51 App\Events\CounterAdd .......................... RUNNING
+  2023-10-27 14:45:51 App\Events\CounterAdd ..........................  2023-10-27 14:45:51 App\Events\CounterAdd ...................... 8.16ms DONE
+ RUNNING
+  2023-10-27 14:45:51 App\Events\CounterAdd ..................... 41.24ms DONE
